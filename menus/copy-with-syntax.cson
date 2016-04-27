@@ -1,22 +1,9 @@
-# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
-'context-menu':
-  'atom-text-editor': [
-    {
-      'label': 'Toggle copy-with-syntax'
-      'command': 'copy-with-syntax:toggle'
-    }
-  ]
 'menu': [
   {
-    'label': 'Packages'
+    'label': 'Edit'
     'submenu': [
-      'label': 'copy-with-syntax'
-      'submenu': [
-        {
-          'label': 'Toggle'
-          'command': 'copy-with-syntax:toggle'
-        }
-      ]
+      'label': 'Copy content with syntax'
+      'command': 'copy-with-syntax:copy'
     ]
   }
 ]

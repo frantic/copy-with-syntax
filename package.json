@@ -1,11 +1,11 @@
 {
   "name": "copy-with-syntax",
-  "main": "./lib/copy-with-syntax",
+  "main": "./lib/main",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "copy-with-syntax:toggle"
+    "atom-workspace": "copy-with-syntax:copy"
   },
   "repository": "https://github.com/atom/copy-with-syntax",
   "license": "MIT",
