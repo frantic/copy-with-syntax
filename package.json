@@ -2,7 +2,7 @@
   "name": "copy-with-syntax",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Copy buffer content with syntax highlighting",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "copy-with-syntax:copy"
