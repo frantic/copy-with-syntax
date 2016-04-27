@@ -13,6 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "rtf": "0.0.4"
+    "copy-paste": "^1.1.4"
   }
 }
