@@ -1,7 +1,7 @@
 {
   "name": "copy-with-syntax",
   "main": "./lib/main",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Copy buffer content with syntax highlighting",
   "keywords": [
     "copy",
