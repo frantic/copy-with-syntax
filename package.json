@@ -1,13 +1,13 @@
 {
   "name": "copy-with-syntax",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Copy buffer content with syntax highlighting",
-  "keywords": [],
+  "keywords": ["copy", "formatting", "colors", "syntax", "highlighting"],
   "activationCommands": {
     "atom-workspace": "copy-with-syntax:copy"
   },
-  "repository": "https://github.com/atom/copy-with-syntax",
+  "repository": "https://github.com/frantic/copy-with-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
