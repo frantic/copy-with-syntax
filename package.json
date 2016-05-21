@@ -1,9 +1,15 @@
 {
   "name": "copy-with-syntax",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Copy buffer content with syntax highlighting",
-  "keywords": ["copy", "formatting", "colors", "syntax", "highlighting"],
+  "keywords": [
+    "copy",
+    "formatting",
+    "colors",
+    "syntax",
+    "highlighting"
+  ],
   "activationCommands": {
     "atom-workspace": "copy-with-syntax:copy"
   },
